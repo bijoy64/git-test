@@ -1,0 +1,7 @@
+def Area():
+    length = float(int(input("Enter the value of length:")))
+    width = float(int(input("Enter the value of width:")))
+    RectangleArea = length*width
+    print ("Area of rectangle is ",RectangleArea)
+Area()
+
